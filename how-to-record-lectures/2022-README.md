@@ -38,3 +38,5 @@ Possibly in different rooms the projectors have different resolution so there mu
 Note the OBS "profile" stores the settings of OBS.
 
 There is an example screen shot included.
+
+![](2022-example-screen.png)
